@@ -1,0 +1,1 @@
+A Simple Salary Prediction ML Model deployed on Flask.
